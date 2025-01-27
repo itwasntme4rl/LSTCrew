@@ -4,7 +4,7 @@ local UIS = game:GetService("UserInputService")-- Made By itwasntme4rl
 local WorldToViewportPoint = CurrentCam.WorldToViewportPoint
 local mouseLocation = UIS.GetMouseLocation
 
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Made By GGFRMLR501", Text = "LST GANG"})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Made By LST Crewz", Text = "LST_TrEaTmEnT"})
 
 local DeleteMob ={
     GUi = {
